@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee|Indie+Flower');
+
+h1, h2, h3{
+
+
+font-family: 'Bungee', cursive;
+color: #0976FF
+}
+
+p,li{
+font-family: 'Indie Flower', cursive;
+color: #FF5252;
+}
+
+.project {
+	background-color: grey;
+	width:543px;
+}
+
+body{
+	background: url('../images/abstract-background.png')
+	no-repeat center center fixed;
+	background-size: cover;
+}
+
+.wrapper{
+	width:906px;
+	margin:0 auto;
+
+}
+
+
+header, footer {
+background-color: #595959;
+text-align: center;
+padding: 200px;
+}
+
+.main-content {
+	background-color: #808f85;
+	padding: 10px 0;
+	border-top: 2px solid #cfd11a	
+
+}
+
+.main-content ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+.main-content ul li {
+	padding 10px;
+	text-align: center;
+	display: inline;
+}
+
+a {
+	color:#cfd11a; /*yellow*/
+	text-decoration: none;
+	font-family: 'Indie Flower', cursive;
+
+}
+
+.main-content p {
+	margin: 10px 40px;
+}
+
+.main-content h2{
+	text-align: center;
+}
+
+#projects {
+	background-color: #808f85;
+}
+
+.project {
+	max-width: 100%
+
+}
+
+
+
+
+
